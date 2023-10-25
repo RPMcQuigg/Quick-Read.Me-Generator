@@ -23,3 +23,6 @@ This application is covered under the MIT license.
 For any questions, please contact me via:
 - GitHub: [RPMcQuigg](https://github.com/RPMcQuigg)
 - Email: ----@gmail.com
+
+## Video
+[Screen Recording.zip](https://github.com/RPMcQuigg/Quick-Read.Me-Generator/files/13161710/Screen.Recording.zip)
