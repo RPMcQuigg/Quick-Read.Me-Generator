@@ -64,16 +64,6 @@ inquirer
     },
     {
       type: 'input',
-      name: 'contributing',
-      message: 'Enter contribution guidelines:',
-    },
-    {
-      type: 'input',
-      name: 'tests',
-      message: 'Enter test instructions:',
-    },
-    {
-      type: 'input',
       name: 'username',
       message: 'Enter your GitHub username:',
     },

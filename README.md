@@ -1,8 +1,7 @@
-
-# Read.Me Generator
+# Quick Read.Me Generator
 
 ## Description
-Application for creating a quick read.me file for any application using node.js and inquirer
+A Read.Me Generator to help create a quicker layout using the console.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -11,10 +10,10 @@ Application for creating a quick read.me file for any application using node.js 
 - [Questions](#questions)
 
 ## Installation
-instal node.js to your cumpter and then add inquirer 8.2.4 by inputting the command npm i inquirer@8.2.4 in the command line
+make sure both node.js and inquirer are both and installed and then open then consle and type node index.js to begin
 
 ## Usage
-used to quickly create read.me files
+Type node index.js to begin then input needed info.
 
 ## License
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -23,4 +22,4 @@ This application is covered under the MIT license.
 ## Questions
 For any questions, please contact me via:
 - GitHub: [RPMcQuigg](https://github.com/RPMcQuigg)
-- Email: email
+- Email: ----@gmail.com
